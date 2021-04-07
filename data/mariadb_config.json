@@ -1,0 +1,7 @@
+{
+  "user": "user_name",
+  "password": "user_password",
+  "host": "127.0.0.1",
+  "port": 3306,
+  "database": "smart_cam"
+}

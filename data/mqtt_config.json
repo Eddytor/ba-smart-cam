@@ -1,0 +1,12 @@
+{
+  "device_root": "cam/devices",
+  "device_status": "up",
+  "device_cfg": {
+    "root": "cam/setup",
+    "set_id": "setID",
+    "request_id": "requestID",
+    "register": "registerCam"
+  },
+  "detection_info": "detection",
+  "image": "image"
+}

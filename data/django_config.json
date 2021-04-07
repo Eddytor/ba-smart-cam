@@ -1,0 +1,12 @@
+{
+  "username": "superusername",
+  "password": "superusername_password",
+  "next_url": "/db/detections",
+  "login_url": "/accounts/login/",
+  "ip": "https://smartcam.ddns.net",
+  "port": "80",
+  "update_img": "/img/",
+  "email": "send_from_email_address",
+  "email_password": "email_password",
+  "send_to": "send_to_email_address"
+}
